@@ -1,25 +1,3 @@
-/*
-Version 0.100
-
-Made by: Finally // Aleks Schakel // www.finally.nl // aleks@finally.nl
-Copyright 2016 - 2017.
-
-!Changelog
-
-2018
-	24-10-2018
-	- [BORN] This class is born. Hooray!
-
-!Usage
-
-	specific.spotlight.onready();
-	
-!Wishlist
-
-	none
-	
-*/
-  
 var specific_price_touringcar = {};
 
 (function(){
